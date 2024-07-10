@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PPGgameShop/static/css/main.18a91e56.css",
+    "main.js": "/PPGgameShop/static/js/main.7c4eb8c9.js",
+    "static/js/453.ed3810f9.chunk.js": "/PPGgameShop/static/js/453.ed3810f9.chunk.js",
+    "static/media/M_avatar2.jpg": "/PPGgameShop/static/media/M_avatar2.7bec8b3838b9a89b7954.jpg",
+    "static/media/background.jpg": "/PPGgameShop/static/media/background.f7523ac592bf08dbe6af.jpg",
+    "static/media/M_avatar1.jpeg": "/PPGgameShop/static/media/M_avatar1.8dbc4a22ffeb8360464c.jpeg",
+    "static/media/M_avatar3.png": "/PPGgameShop/static/media/M_avatar3.eab3bb194352a75d1b10.png",
+    "static/media/Logo.png": "/PPGgameShop/static/media/Logo.7243e1007d22d6eede17.png",
+    "static/media/success.png": "/PPGgameShop/static/media/success.bbbc7525881c9e8143f1.png",
+    "index.html": "/PPGgameShop/index.html",
+    "main.18a91e56.css.map": "/PPGgameShop/static/css/main.18a91e56.css.map",
+    "main.7c4eb8c9.js.map": "/PPGgameShop/static/js/main.7c4eb8c9.js.map",
+    "453.ed3810f9.chunk.js.map": "/PPGgameShop/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a91e56.css",
+    "static/js/main.7c4eb8c9.js"
+  ]
+}
